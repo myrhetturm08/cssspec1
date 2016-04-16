@@ -1,4 +1,4 @@
- Identification Division.
+Identification Division.
  Program-ID.   Sample1.
  Environment Division.
  Data Division.
